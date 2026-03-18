@@ -1,0 +1,16 @@
+## CyberShield Dependencies
+## All built-in Python — zero installation needed
+ 
+# Core (built-in)
+# json
+# re
+# os
+# datetime
+# collections
+ 
+## Optional future dependencies
+# pandas>=1.4.0
+# scikit-learn>=1.0.0
+# flask>=2.0.0
+# matplotlib>=3.5.0
+ 
